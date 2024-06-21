@@ -1,2 +1,0 @@
-<img src="score.png">
-
