@@ -1,1 +1,1 @@
-<img src="SCORE.png">
+<img src="score.png">
