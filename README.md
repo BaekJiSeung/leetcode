@@ -1,1 +1,1 @@
-<img src="score.png">
+<img src="leetscore.png">
